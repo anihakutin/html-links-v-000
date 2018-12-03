@@ -57,7 +57,7 @@ location of the current tab. We've now got 6 links:
 <a href="real-estate-listings.html">Listings</a>
 <a href="market-report.html">Market Report</a>
 <a href="contact.html">Contact</a>
-<a href="http://hud.gov" target='_blank'>H.U.D.</a>
+<a href="https://hud.gov" target='_blank'>H.U.D.</a>
 ```
 
 These links will act as our navigation, so go ahead and copy these, and paste
